@@ -1,1 +1,3 @@
-# Camila-Soto---Parcial-Segunda-Parte--Inform-tica-General.github.io
+# Camila-Soto-Torrejón
+- Primer Parcial Informática General
+- Artes Multimediales UNA
